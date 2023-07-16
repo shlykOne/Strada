@@ -1,3 +1,2 @@
-function calc(operation, a, b){
-    
-}
+let a = 'hello world'
+alert (a);
